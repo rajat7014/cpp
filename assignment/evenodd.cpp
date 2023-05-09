@@ -6,14 +6,14 @@ int main(){
     for(i=1;i<=n;i++){
         if(i%2==0){
            evensum = evensum+i;
-            cout<<"sum of even number"<<evensum<<endl;
+            
         }
         else{
             oddsum = oddsum+i;
-            cout<<"sum of odd number"<<oddsum<<endl;
+            ;
        }
-       
-       
     }
+    cout<<"sum of even number"<<evensum<<endl;
+    cout<<"sum of odd number"<<oddsum<<endl
 }
 // even odd
