@@ -8,7 +8,7 @@ int main(){
         cout<<"A and B are equal";
     }
     else{
-        cout<<"A and B are no tequal";
+        cout<<"A and B are not equal";
     }
     return 0;
 }
