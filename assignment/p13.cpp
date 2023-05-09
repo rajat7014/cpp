@@ -5,6 +5,7 @@ using namespace std;
     cin>>n;
     for(i=1; i<=n; i++){
         c =  c*i;
-        cout<<c<<endl;
+        
     }
+  cout<<c<<endl;
  }
